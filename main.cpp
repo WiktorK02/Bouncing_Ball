@@ -95,7 +95,7 @@ Circle::~Circle()
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HIGHT), "julk jest glupia");
+    sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HIGHT), "title");
     window.setFramerateLimit(60);
 
     //CRICLE declaration
