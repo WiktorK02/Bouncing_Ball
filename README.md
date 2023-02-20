@@ -2,4 +2,4 @@
 ### What I learned:
 •basic SMFL/GRAPHICS<br />
 •imporved classes skills<br />
-•basic physics through programming
+•basic physics in programming
